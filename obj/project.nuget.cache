@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zNgDFrm0iq0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\source\\OgunFold\\YoutudeDowloder\\YoutudeDowloder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\cliwrap\\3.6.6\\cliwrap.3.6.6.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.text.json\\8.0.3\\system.text.json.8.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\youtubeexplode\\6.3.16\\youtubeexplode.6.3.16.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\youtubeexplode.converter\\6.3.16\\youtubeexplode.converter.6.3.16.nupkg.sha512"
+  ],
+  "logs": []
+}
